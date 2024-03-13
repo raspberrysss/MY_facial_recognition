@@ -1,0 +1,2 @@
+# MY_facial_recognition
+基于QT5.12及百度ai人脸识别接口实现的人脸识别程序
